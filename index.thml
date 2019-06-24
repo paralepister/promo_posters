@@ -2387,12 +2387,7 @@
     </div>
   </div>
   <!--/allrecords-->
-  <!-- Tilda copyright. Don't remove this line -->
-  <div class="t-tildalabel t-tildalabel-free" id="tildacopy" data-tilda-sign="1439528#6327121">
-    <div class="t-tildalabel-free__main"><a href="https://tilda.cc/?upm=1439528" target="_blank" style="padding-bottom:12px; display: block;"><img style="width:40px;" src="https://static.tildacdn.com/img/tildacopy.png"></a>
-      <div style="padding-bottom: 15px;">This site was made on <a href="https://tilda.cc/?upm=1439528" target="_blank" style="text-decoration: none; color:inherit;">Tilda &mdash; a website builder</a> that helps to&nbsp;create a&nbsp;website without
-        any code</div><a href="https://tilda.cc/registration/" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 13px; border-radius: 50px; background-color: #fff; color:#000; text-decoration: none;">Create a website</a>
-    </div>
+
   <script type="text/javascript">
     if (!window.mainTracker) {
       window.mainTracker = 'tilda';
