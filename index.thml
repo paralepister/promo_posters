@@ -19,7 +19,6 @@
   <link rel="dns-prefetch" href="https://tilda.ws">
   <link rel="dns-prefetch" href="https://static.tildacdn.com">
   <meta name="robots" content="nofollow" />
-  <link rel="shortcut icon" href="https://static.tildacdn.com/img/tildafavicon.ico" type="image/x-icon" /><!-- Assets -->
   <link rel="stylesheet" href="https://static.tildacdn.com/css/tilda-grid-3.0.min.css" type="text/css" media="all" />
   <link rel="stylesheet" href="https://tilda.ws/project1439528/tilda-blocks-2.12.css?t=1561387521" type="text/css" media="all" />
   <link rel="stylesheet" href="https://static.tildacdn.com/css/tilda-animation-1.0.min.css" type="text/css" media="all" />
@@ -2394,9 +2393,6 @@
       <div style="padding-bottom: 15px;">This site was made on <a href="https://tilda.cc/?upm=1439528" target="_blank" style="text-decoration: none; color:inherit;">Tilda &mdash; a website builder</a> that helps to&nbsp;create a&nbsp;website without
         any code</div><a href="https://tilda.cc/registration/" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 13px; border-radius: 50px; background-color: #fff; color:#000; text-decoration: none;">Create a website</a>
     </div>
-    <div class="t-tildalabel-free__links-wr"><a class="t-tildalabel-free__txt-link" href="http://help.tilda.ws/white-label" target="_blank">How to remove this block?</a><a class="t-tildalabel-free__txt-link" href="https://tilda.cc/?upm=1439528"
-        target="_blank">About platform</a><a class="t-tildalabel-free__txt-link" href="https://tilda.cc/abuse/" target="_blank">Submit a complaint</a></div>
-  </div><!-- Stat -->
   <script type="text/javascript">
     if (!window.mainTracker) {
       window.mainTracker = 'tilda';
